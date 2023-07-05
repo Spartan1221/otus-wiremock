@@ -8,7 +8,7 @@ import static io.restassured.RestAssured.given;
 
 public abstract class BaseApi {
 
-    public static final String WIREMOCK_URL = System.getProperty("baseUrl", "http://192.168.0.103:8089");
+    public static final String WIREMOCK_URL = System.getProperty("baseUrl", "http://192.168.0.101:8089");
 
 
     protected ValidatableResponse post(RequestSpecification spec, Object body, String path) {

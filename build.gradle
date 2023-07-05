@@ -16,6 +16,7 @@ ext {
     aspectVersion = "1.9.5"
     allureVersion = '2.14.0'
     junitVersion = '5.8.1'
+    junitPioneerVersion = "1.4.2"
     seleniumVersion = '3.141.59'
     webdrivermanagerVersion = '4.2.0'
     assertjVersion = '3.21.0'
