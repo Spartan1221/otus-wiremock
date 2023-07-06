@@ -27,7 +27,7 @@ ext {
     restVersion = "5.3.0"
     jacksonVersion = "2.10.5"
     browser = 'chrome'
-    baseUrl = 'http://192.168.0.101:8089'
+    baseUrl = 'http://192.168.0.103:8089'
 }
 
 sourceCompatibility = '11'
